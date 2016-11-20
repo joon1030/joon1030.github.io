@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mac.zoo</title>
+    <description>Vyaasa is a minimal Jekyll theme meant for writers. Long text posts will look good with this layout. This is a free theme and can be used for all kinds of Jekyll blogs.
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 20 Nov 2016 16:20:25 +0900</pubDate>
+    <lastBuildDate>Sun, 20 Nov 2016 16:20:25 +0900</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>play giter8</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/play-g8/play-g8.png&quot; alt=&quot;sbt-g8&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.playframework.com/download&quot;&gt;https://www.playframework.com/download&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;오랫만에 play framework 공식 페이지에 가보니 생소한 단어가 보였다&lt;/p&gt;
+
+&lt;h2 id=&quot;giter8&quot;&gt;giter8&lt;/h2&gt;
+
+&lt;p&gt;찾아보니&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/foundweekends/giter8&quot;&gt;https://github.com/foundweekends/giter8&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;요 프로젝트였고.. 프로젝트 템플릿(?) 같은 놈이다&lt;/p&gt;
+
+&lt;p&gt;기존에는 sbt new 를 사용해 프로젝트 생성시 play 에서 제공해주는 템플릿만 사용가능했는데&lt;/p&gt;
+
+&lt;p&gt;play 제공 템플릿 외에 g8 템플릿도 이제 사용이 가능하다&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/foundweekends/giter8/wiki/giter8-templates&quot;&gt;https://github.com/foundweekends/giter8/wiki/giter8-templates&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;사용가능한 목록은 위 링크에 있다&lt;/p&gt;
+</description>
+        <pubDate>Sun, 20 Nov 2016 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/play-g8/</link>
+        <guid isPermaLink="true">http://localhost:4000/play-g8/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
